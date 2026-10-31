@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "Cs241161",
+        "name": "Aashesh kumar",
+        "email": "aasheshkumar123@gmail.com",
+        "department": "computer science",
+        "semester": 6,
+        "courses": {
+            "aashesh": 89
+        }
+    },
+    {
+        "student_id": "cs241162",
+        "name": "Kumar",
+        "email": "Aashesh@gmail.com",
+        "department": "Computer science",
+        "semester": 8,
+        "courses": {}
+    }
+]
